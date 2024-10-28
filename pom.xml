@@ -12,6 +12,7 @@
         <module>user-service</module>
         <module>report-service</module>
         <module>configserver</module>
+        <module>comment-rating-service</module> <!-- Nuevo módulo propio -->
     </modules>
 
     <parent>
